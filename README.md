@@ -12,7 +12,6 @@ Forest Fire Detection using Deep Learning is a research and development project 
 - [Usage](#usage)
 - [Project Structure](#project-structure)
 - [Contributing](#contributing)
-- [License](#license)
 - [Contact](#contact)
 
 ## Overview
@@ -96,10 +95,6 @@ Contributions are welcome! If you have suggestions or improvements, please follo
 3. Commit your changes (`git commit -m 'Add some feature'`).
 4. Push to the branch (`git push origin feature/your-feature`).
 5. Open a Pull Request.
-
-## License
-
-Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
 
