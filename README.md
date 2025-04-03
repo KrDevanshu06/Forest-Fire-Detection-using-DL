@@ -82,9 +82,10 @@ Forest fires are a significant environmental and economic concern. Early detecti
 ## Project Structure
 
 ```plaintext
-├── README.md
-├── requirements.txt
-└── Forest_Fire_Detection_using_DL.ipynb
+Forest-Fire-Detection-using-DL
+   ├── README.md
+   ├── requirements.txt
+   └── Forest_Fire_Detection_using_DL.ipynb
 ```
 
 ## Contributing
