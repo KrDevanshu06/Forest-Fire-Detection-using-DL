@@ -1,0 +1,8 @@
+kagglehub
+matplotlib.pyplot
+numpy
+os
+tensorflow
+tensorflow.keras.layers
+tensorflow.keras.models
+tensorflow.keras.preprocessing.image
