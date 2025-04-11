@@ -101,4 +101,4 @@ Contributions are welcome! If you have suggestions or improvements, please follo
 For questions, feedback, or further information, please contact:
 - **Name:** [Devanshu Kumar] [Shashwat Singh]
 - **Email:** [KrDevanshu06@rediffmail.com] [singhshashwat521@gmail.com]
-- **GitHub:** [KrDevanshu06](https://github.com/KrDevanshu06) [Shashwat](https://github.com/shashwat-singh-01)
+- **GitHub:** [KrDevanshu06](https://github.com/KrDevanshu06) [ShashwatSingh](https://github.com/shashwat-singh-01)
