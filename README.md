@@ -99,6 +99,6 @@ Contributions are welcome! If you have suggestions or improvements, please follo
 ## Contact
 
 For questions, feedback, or further information, please contact:
-- **Name:** [Devanshu Kumar]
-- **Email:** [KrDevanshu06@rediffmail.com]
-- **GitHub:** [KrDevanshu06](https://github.com/KrDevanshu06)
+- **Name:** [Devanshu Kumar] [Shashwat Singh]
+- **Email:** [KrDevanshu06@rediffmail.com] [singhshashwat521@gmail.com]
+- **GitHub:** [KrDevanshu06](https://github.com/KrDevanshu06) [Shashwat](https://github.com/shashwat-singh-01)
